@@ -26,17 +26,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Live longer tha
 
-education:
-  courses:
-    - course: Else-Kröner CS Professor for AI in Medical Imaging
-      institution: University of Bonn
-      year: 2024
-    - course: MBA
-      institution: IE Business School
-      year: 2018
-    - course: MD
-      institution: University of Cologne
-      year: 2013
+
 
 social:
   - icon: envelope
