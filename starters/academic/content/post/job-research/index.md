@@ -16,7 +16,7 @@ projects: []
 date: '2024-05-01T00:00:00Z'
 
 # Date updated
-lastmod: '2024-11-27T00:00:00Z'
+lastmod: '2024-12-19T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -51,10 +51,9 @@ We are looking for multiple Postdocs, PhD candidates, and Master's thesis studen
 - Work closely with clinicians to translate research work into clinical practices 
 - Publish your work in national and international conferences and journals 
 
-## Your Qualifications
-
-- MSc in computer science, mathematics, physics, statistics, or a related fields 
-- Theoretical and practical experience in deep learning, and machine learning 
+## Your Qualifications 
+- PhD (Postdoc), MSc (PhD) in computer science, mathematics, physics, statistics, or a related fields 
+- Theoretical and practical experience in deep learning, and machine learning
 - Interest in clinical data and working with interdisciplinary teams 
 - Team player with passion to work in an intercultural environment 
 - High degree of autonomy and excellent problem-solving skills
@@ -62,7 +61,7 @@ We are looking for multiple Postdocs, PhD candidates, and Master's thesis studen
 
 ## Your Benefits
 
-- Postdoctoral and PhD researchers: 100% of TVL E-13 with 3 years (For postdoctoral researchers who have already received PhD degrees, TVL E-14 is possible).
+- Postdoctoral and PhD researchers: 100% of TVL E-13 with 3 years.
 - For Master thesis students contract as a working student (Hiwi) is possible. 
 - Access to large-scale multicentric, multimodal (images, reports) datasets 
 - The division has exclusive access to the latest and powerful computing resource (2x NVIDIA DGX H100 cluster). Each group member is provided with powerful personal workstations (with RTX A6000 GPUs, etc.). 
