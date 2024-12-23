@@ -62,8 +62,8 @@ We are looking for multiple Postdocs, PhD candidates, and Master's thesis studen
 
 ## Your Benefits
 
-- 100% of TVL E-13 with 3 years (for Postdoc, TVL E-14 is possible with supervison work).
-- For Master thesis students contract as a working student (Hiwi) is possible. 
+- 100% of TVL E-13 with 3 years (for Postdoc, TVL E-14 is possible with supervision work).
+- For Master thesis students, a contract as a working student (Hiwi) is possible. 
 - Access to large-scale multicentric, multimodal (images, reports) datasets 
 - The division has exclusive access to the latest and powerful computing resource (2x NVIDIA DGX H100 cluster). Each group member is provided with powerful personal workstations (with RTX A6000 GPUs, etc.). 
 - Access to the latest medical imaging scanners (multiple of the latest 3T MR scanners, a 0.065T Swoop hyperfine scanner and a 7T MR scanner) 
@@ -71,6 +71,12 @@ We are looking for multiple Postdocs, PhD candidates, and Master's thesis studen
 - Opportunities to attend national and international conferences (MICCAI, CVPR,...) 
 - Potential for being involved in industry (research) collaborations 
 
+## Starting Date
+
+The Ph.D and Postdoc positions will start from 1st July 2025.
+
 ## Interested? Contact us
 
 - Please send your application to contact@ccibonn.ai (cc: aditya.rastogi@ukbonn.de), mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
+
+- Important: If you are applying for a master thesis position, please also mention in your email information like "when you want to start the thesis work", "would you be interested in moving to Bonn for your thesis", "do you want to pursue PhD after your thesis" and "whether you already have a professor in your college to be your co-advisor (if required by your institute)".
