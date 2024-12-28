@@ -59,6 +59,7 @@ We are looking for multiple Postdocs, PhD candidates, and Master's thesis studen
 - Team player with passion to work in an intercultural environment 
 - High degree of autonomy and excellent problem-solving skills
 - Good communication skills in English
+- Important: For Postdoc position, candidates with good communication skills in German (equivalent to B2 at the time of starting) will be given preference.
 
 ## Your Benefits
 
