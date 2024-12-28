@@ -59,7 +59,7 @@ We are looking for multiple Postdocs, PhD candidates, and Master's thesis studen
 - Team player with passion to work in an intercultural environment 
 - High degree of autonomy and excellent problem-solving skills
 - Good communication skills in English
-- Important: For Postdoc position, candidates with good communication skills in German (equivalent to B2 at the time of starting) will be given preference.
+- **Important:** For Postdoc position, candidates with good communication skills in German (equivalent to B2 at the time of starting) will be given preference.
 
 ## Your Benefits
 
@@ -80,4 +80,4 @@ The Ph.D and Postdoc positions will start from 1st July 2025.
 
 - Please send your application to contact@ccibonn.ai (cc: aditya.rastogi@ukbonn.de), mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
 
-- Important: If you are applying for a master thesis position, please also mention in your email information like "when you want to start the thesis work", "would you be interested in moving to Bonn for your thesis", "do you want to pursue PhD after your thesis" and "whether you already have a professor in your college to be your co-advisor (if required by your institute)".
+- **Important:** If you are applying for a master thesis position, please also mention in your email information like "when you want to start the thesis work", "would you be interested in moving to Bonn for your thesis", "do you want to pursue PhD after your thesis" and "whether you already have a professor in your college to be your co-advisor (if required by your institute)".
