@@ -3,7 +3,7 @@ title: Software Engineer/Developer
 subtitle:
 
 # Summary for listings and search engines
-summary: "Exciting and fully funded Software Engineer positions to support our research projects in the division for Computational Radiology & Clinical AI (CCIBonn.ai) at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor for AI in Medical Imaging). If you’re passionate about software engineering in the medical field, check out our job description and contact us via contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de, manuel.debic@ukbonn.de) with your CV and a short cover letter (~ 1 page) about yourself (not included in your CV)."
+summary: "Exciting and fully funded Software Engineer positions to support our research projects in the division for Computational Radiology & Clinical AI (CCIBonn.ai) at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor for AI in Medical Imaging). If you’re passionate about software engineering in the medical field, check out our job description and contact us via contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de) including your CV and a short cover letter about yourself (~ 1 page)."
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 date: '2024-12-01T00:00:00Z'
 
 # Date updated
-lastmod: '2024-12-01T00:00:00Z'
+lastmod: '2025-01-14T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -65,5 +65,8 @@ We, at the division for Computational Radiology & Clinical AI (CCIBonn.ai) at th
 - Support for professional development, such as earning certifications or attending lectures and workshops that match your interests.
 - You’ll have the opportunity to work on impactful open-source initiatives, collaborate with a global community, and advance your career in the dynamic field of medical AI.
 
+## Starting Date
+We are hiring from the 1st May 2025.
+
 ## Interested? Contact us
-- Please send your application to contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de, manuel.debic@ukbonn.de) including your CV and a short cover letter about yourself (~ 1 page).
+- Please send your application to contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de) including your CV and a short cover letter about yourself (~ 1 page).
