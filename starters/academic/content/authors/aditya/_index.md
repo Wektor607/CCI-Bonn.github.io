@@ -79,8 +79,8 @@ user_groups:
   - Research team members
 ---
 
-I am currently a Post Doctoral Researcher at the Department of Neuroradiology of Universitätsklinikum Bonn, and serve as AI Research Lead at the Division of Computational Radiology and Clinical AI. My <b>RESUME</b> can be accessed <a href="https://adityarastogi2k12.github.io/pdf/Aditya_Rastogi_Resume_July_2024.pdf" target="blank"> <b>HERE</b> </a>.  
-I earned my Master’s in Technology and Ph.D. from the Medical Imaging Group at the Indian Institute of Science (IISc) under the guidance of Prof. Phaneendra Yalavarthy. The website of Medical Imaging Group can be found <a href="http://cds.iisc.ac.in/faculty/yalavarthy/MIG/Links.html" target="blank"> <b>HERE</b> </a>.  
+I am currently a Post Doctoral Researcher at the Department of Neuroradiology of Universitätsklinikum Bonn, and serve as the AI Research Lead at the Division of Computational Radiology and Clinical AI. My <b>RESUME</b> can be accessed <a href="https://adityarastogi2k12.github.io/pdf/Aditya_Rastogi_Resume_July_2024.pdf" target="blank"> <b>HERE</b> </a>.  
+I earned my Master’s in Technology and Ph.D. from the Indian Institute of Science (IISc) under the guidance of Prof. Phaneendra Yalavarthy (P.I. Medical Imaging Group). The website of Medical Imaging Group can be found <a href="http://cds.iisc.ac.in/faculty/yalavarthy/MIG/Links.html" target="blank"> <b>HERE</b> </a>.  
   
 I completed my Bachelor’s in Technology from <b>Delhi Technological University</b>. Subsequently, I worked as a Senior Engineer at Bajaj Automobile Ltd. for nearly two years.
 
