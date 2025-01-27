@@ -16,5 +16,6 @@
      	 "onAutoForward": "openBrowser"
   	  }
  	 },
-	"postCreateCommand": "yarn view:local"
+	 "postStartCommand": "yarn view:local"
+	"postCreateCommand": "yarn install"
 }
