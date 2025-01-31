@@ -9,13 +9,6 @@
 			"extended": true
 		}
 	},
-	"appPort": ["1313:1313"],
-	"portsAttributes": {
-   	 "1313": {
-     	 "label": "Hugo Server",
-     	 "onAutoForward": "openBrowser"
-  	  }
- 	 },
-	 "postStartCommand": "yarn view:local",
+	"postStartCommand": "yarn view:local",
 	"postCreateCommand": "yarn install"
 }
