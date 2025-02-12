@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: contact@ccibonn.ai
-  phone: +49 228 287-16505
   address:
     street: 'Office: University Hospital Bonn, Venusberg-Campus 1, Building C91' 
     city: Bonn
