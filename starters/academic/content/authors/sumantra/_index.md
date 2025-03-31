@@ -6,7 +6,7 @@ title: Sumantra Sharma, MSc
 first_name: Sumantra
 last_name: Sharma
 
-weight: 3
+weight: 12
 
 # Username (this should match the folder name)
 authors:
