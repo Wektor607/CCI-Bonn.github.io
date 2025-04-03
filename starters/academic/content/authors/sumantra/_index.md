@@ -6,7 +6,7 @@ title: Sumantra Sharma
 first_name: Sumantra
 last_name: Sharma
 
-weight: 10
+weight: 13
 
 # Username (this should match the folder name)
 authors:
