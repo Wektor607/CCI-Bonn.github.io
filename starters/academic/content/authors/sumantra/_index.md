@@ -16,54 +16,51 @@ authors:
 superuser: false
 
 # Role/position
-role: AI Research Lead
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: Division of Computational Radiology and Clinical AI, Universitätsklinikum Bonn, Germany
+  - name: University Hospital Bonn
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
   
-  Post Doctoral Researcher, Department of Neuroradiology of Universitätsklinikum Bonn and AI Research Lead at Division of Computational Radiology and Clinical AI. 
+  Software Engineer, Radiology 
 
 interests:
-  - Inverse Problems
-  - Medical Imaging
-  - Computer Vision
+  - Distributed Systems
+  - Machine Learning 
+  - Medical Computing
 
 education:
   courses:
-    - course: PhD, Faculty of Engineering
-      institution: Indian Institute of Science, Bengaluru, India
+    - course: MS Computer Science & Engineering
+      institution: The State University of New York at Buffalo (SUNY Buffalo)
       year: 2022
-    - course: M.Tech (Research), Faculty of Engineering
-      institution: Indian Institute of Science, Bengaluru, India
-      year: 2022
-    - course: B.Tech, Mechanical Engineering
-      institution: Delhi Technological University, New Delhi, India
-      year: 2016
+    - course: B.E, Electronics & Instrumentation
+      institution: Birla Institute of Technology And Science, Pilani (BITS Pilani)
+      year: 2017
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:aditya.rastogi@ukbonn.de'
+    link: 'mailto:sumantra.sharma@ukbonn.de'
   # - icon: twitter
    # icon_pack: fab
    # link: https://x.com/bundesstadtbonn?lang=en
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=61LSsAQAAAAJ&hl=en
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=61LSsAQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/CCI-Bonn
+    link: https://github.com/chinacat567
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/aditya-rastogi-8167417b/
-  - icon: globe
-    icon_pack: fas
-    link: https://adityarastogi2k12.github.io/
+    link: https://www.linkedin.com/in/sumantras/
+  # - icon: globe
+  #   icon_pack: fas
+  #   link: https://adityarastogi2k12.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,10 +76,4 @@ user_groups:
   - Research team members
 ---
 
-I am currently a Post Doctoral Researcher at the Department of Neuroradiology of Universitätsklinikum Bonn, and serve as the AI Research Lead at the Division of Computational Radiology and Clinical AI. My <b>RESUME</b> can be accessed <a href="https://adityarastogi2k12.github.io/pdf/Aditya_Rastogi_Resume_July_2024.pdf" target="blank"> <b>HERE</b> </a>.  
-
-I earned my Master’s in Technology and Ph.D. from the Indian Institute of Science (IISc) under the guidance of Prof. Phaneendra Yalavarthy (P.I. Medical Imaging Group). The website of Medical Imaging Group can be found <a href="http://cds.iisc.ac.in/faculty/yalavarthy/MIG/Links.html" target="blank"> <b>HERE</b> </a>.  
-  
-I completed my Bachelor’s in Technology from <b>Delhi Technological University</b>. Subsequently, I worked as a Senior Engineer at Bajaj Automobile Ltd. for nearly two years.
-
-I am the recipient of the prestigious <a href="https://may2020.pmrf.in/" target="blank"> <b>Prime Minister's Research Fellowship</b> </a> in August 2020.
+I'm a Software Engineer with over 5 years of experience in building scalable back-end systems and distributed cloud solutions. Before joining CCIBonn.ai, I had short stints at Meta and Amazon AWS, where I helped improve large-scale infrastructure for products like Facebook, Instagram, and AWS IoT. Earlier in my career, I also worked at the Biorobotics Lab at the National University of Singapore, where I developed real-time control systems for robotics using C/C++, Python, Django, and AWS. I hold a Master’s degree in Computer Science from the University at Buffalo and specialize in Java, Python, Spring Boot, and AWS.
