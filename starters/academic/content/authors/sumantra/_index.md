@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sumantra Sharma, MSc
+title: Sumantra Sharma
 
 # Full name (for SEO)
 first_name: Sumantra
