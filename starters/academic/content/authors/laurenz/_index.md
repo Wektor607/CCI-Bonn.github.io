@@ -6,7 +6,7 @@ title: Laurenz Heidrich
 first_name: Laurenz
 last_name: Heidrich
 
-weight: 12
+weight: 13
 # Username (this should match the folder name)
 authors:
   - laurenz
