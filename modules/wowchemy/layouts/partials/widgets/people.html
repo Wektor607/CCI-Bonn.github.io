@@ -30,7 +30,7 @@
   </div>
   {{end}}
   {{ $authorsCount := len $query }}
-  {{/* First row: Show one person */}}
+  {{/* First row: Show one person: leader */}}
   <div class="row row-first"  style="justify-content: center;">
     {{ range first 1 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
@@ -63,10 +63,10 @@
     {{ end }}
   </div>
 
-  {{/* First row: Show one person */}}
+  {{/* All other full-time */}}
   
     {{ $middleStart := 1 }}                               
-    {{ $middleEnd := sub $authorsCount 3 }}
+    {{ $middleEnd := sub $authorsCount 2 }}
     {{ if gt $middleEnd $middleStart }}               
     {{ $middleAuthors := first $middleEnd (after $middleStart $query) }}
   <div class="row row-middle" style="margin-top: 15px;">
@@ -102,9 +102,9 @@
   </div>
   {{ end }}
 
-  {{/* First row: Show one person */}}
+  {{/* Master thesis, Hiwi */}}
   <div class="row row-last" style="margin-top: 15px;justify-content: center;width: -webkit-fill-available;">
-    {{ range last 2 $query }}
+    {{ range last 1 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
