@@ -54,7 +54,7 @@ We are looking for multiple Postdoctoral researchers to join our group at CCIBon
 - Interest in clinical data and working with interdisciplinary teams 
 - Team player with passion to work in an intercultural environment 
 - High degree of autonomy and excellent problem-solving skills
-- Good communication skills in English (**required**), and intermediate level of German (at least B2) (**prefered**)
+- Good communication skills in English (**required**), and intermediate level of German (at least B2, **preferred**)
 
 ## Your Benefits
 
