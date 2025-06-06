@@ -44,6 +44,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:zahra.hamedi@ukbonn.de'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zahra-hamedi-794045280
