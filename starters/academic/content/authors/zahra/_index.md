@@ -47,6 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zahra-hamedi-794045280
+- icon: github
+  icon_pack: fab
+  link: https://github.com/hastih
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
