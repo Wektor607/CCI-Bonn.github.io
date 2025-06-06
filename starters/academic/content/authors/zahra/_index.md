@@ -26,7 +26,7 @@ organizations:
 bio: 
 
 interests:
-  - Medical Imaging
+  - AI in healthcare and medical imaging
   - Computer Vision
   - CCI-Bonn
 
