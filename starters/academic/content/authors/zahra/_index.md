@@ -26,10 +26,16 @@ organizations:
 bio: 
 
 interests:
+  - Medical Imaging
+  - Computer Vision
   - CCI-Bonn
 
 education:
-  courses:
+courses:
+    - course: MSc in AI in medicine
+      institution: University of Bern
+      year: 2024
+ 
     
 
 social:
