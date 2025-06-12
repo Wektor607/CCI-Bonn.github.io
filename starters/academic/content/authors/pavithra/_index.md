@@ -31,8 +31,11 @@ interests:
   - LLMs
 
 education:
-  courses: MSc Informatics, 2024 - Present
-  Rhenish Friedrich Wilhelm University of Bonn
+  courses:
+    - MSc Informatics, 2024 - Present
+  schools:
+    - Rhenish Friedrich Wilhelm University of Bonn
+
     
 
 social:
