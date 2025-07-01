@@ -69,4 +69,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+I was born and raised in Bonn, completed my bachelor's in Aachen, earned my master's in Munich, and have now returned to my hometown to help push the boundaries of clinical AI. During my academic journey, I developed a deep interest in computer vision, exploring its applications across diverse domains—from autonomous driving to medical imaging. At CCI.Bonn, my current focus is on MRI super-resolution.
