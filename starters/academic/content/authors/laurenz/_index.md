@@ -23,28 +23,31 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: I was born and raised in Bonn, completed my bachelor's in Aachen, earned my master's in Munich, and have now returned to my hometown to help push the boundaries of clinical AI. During my academic journey, I developed a deep interest in computer vision, exploring its applications across diverse domains—from autonomous driving to medical imaging. At CCI.Bonn, my current focus is on MRI super-resolution.
 
 interests:
-  - Handball
-  - Basketball
-  - AI
-  - Autonomous Driving
-  - CCI-Bonn
+  - Computer Vision
+  - Diffusion Models
+  - MRI Super-resolution
+  - Handball 
+  - Travelling, hiking & the outdoors
 
 education:
   courses:
     - course: MSc in Robotics, Cognition, Intelligence (RCI)
       institution: Technical University Munich (TUM)
       year: 2025
-    - course: BSc in Computational Engineering Science
+    - course: BSc in Computational Engineering Science (CES)
       institution: RWTH Aachen University
       year: 2022
+    - course: Semester Abroad
+      institution: Michigan State University (MSU)
+      year: 2021
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:laurenz.heidrich@ccibonn.ai'
+    link: 'mailto:laurenz.heidrich@ukbonn.de'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=2QQpPEwAAAAJ&hl=de
