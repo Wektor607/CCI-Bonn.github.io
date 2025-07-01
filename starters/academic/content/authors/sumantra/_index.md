@@ -35,11 +35,11 @@ interests:
 
 education:
   courses:
-    - course: MS Computer Science & Engineering
-      institution: The State University of New York at Buffalo (SUNY Buffalo)
+    - course: "MS Computer Science & Engineering"
+      institution: "The State University of New York at Buffalo (SUNY Buffalo)"
       year: 2022
-    - course: B.E, Electronics & Instrumentation
-      institution: Birla Institute of Technology And Science, Pilani (BITS Pilani)
+    - course: "B.E, Electronics & Instrumentation"
+      institution: "Birla Institute of Technology And Science, Pilani (BITS Pilani)"
       year: 2017
 
 social:
