@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: HiWi (Student Assistant)
+role: Student Research Assistants
 
 # Organizations/Affiliations
 organizations:
