@@ -104,8 +104,40 @@
   </div>
   {{ end }}
 
-  {{/* Master thesis, Hiwi */}}
+  {{/* Alumni */}}
   <div class="row row-last" style="margin-top: 15px;justify-content: center;width: -webkit-fill-available;">
+    {{ if eq . "Alumni" }}
+      {{ range last 2 $query }}
+    {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+  {{/* Get link to user's profile page. */}}
+  {{ $link := "" }}
+  {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
+    {{ $link = .RelPermalink }}
+  {{ end }}
+  <div class="col-12 col-sm-auto people-person">
+    {{ $src := "" }}
+    {{ if site.Params.features.avatar.gravatar }}
+      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+    {{ else if $avatar }}
+      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+      {{ $src = $avatar_image.RelPermalink }}
+    {{ end }}
+    {{ if $src }}
+      {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+      {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+    {{ end }}
+
+    <div class="portrait-title">
+      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+      {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
+      {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+      {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+  {{ else }}
+  {{/* Master thesis, Hiwi */}}
     {{ range last 1 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
@@ -134,6 +166,7 @@
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
   </div>
+  {{ end }}
   {{ end }}
   </div>
   {{ end }}

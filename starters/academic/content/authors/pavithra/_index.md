@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Research Assistants
+role: Student Research Assistant
 
 # Organizations/Affiliations
 organizations:
