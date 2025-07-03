@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: IT/Infrastructure Lead<br>PhD Candidate
+role: Former IT/Infrastructure Lead
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:manuel.debic@ukbonn.de'
+    link: 'mailto:info@debic-it.de'
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Manuel_Debic
@@ -72,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'manuel.debic@ukbonn.de'
+email: 'info@debic-it.de'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -80,9 +80,9 @@ user_groups:
   - Alumni
 ---
 
-I am Manuel Debić, the IT/Infrastructure Lead at the Division for Computational Radiology & Clinical AI (CCI) at the University Hospital in Bonn. My work focuses on managing and developing the technical infrastructure to support research in computational radiology and clinical AI.
+As former IT/Infrastructure Lead at the Division for Computational Radiology & Clinical AI (CCI) at the University Hospital in Bonn my work focused on managing and developing the technical infrastructure to support research in computational radiology and clinical AI.
 
-Previously, I served as the IT Head at the Department of Diagnostic and Interventional Radiology at Heidelberg University Hospital (UKHD), where I led IT projects, managed technical infrastructure, and supported both clinical and research activities. This role provided me with extensive experience in integrating technology into healthcare environments.
+Earlier, I served as the IT Head at the Department of Diagnostic and Interventional Radiology at Heidelberg University Hospital (UKHD), where I led IT projects, managed technical infrastructure, and supported both clinical and research activities. This role provided me with extensive experience in integrating technology into healthcare environments.
 
 I have a Master’s degree in Medical Informatics from Heidelberg University and a Bachelor’s degree in Medical Engineering from Pforzheim University. My background helps me contribute to research projects and practical applications in healthcare technology.
 
