@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pavithra Raghavan
+title: German Mikhelson
 
 # Full name (for SEO)
 first_name: German
