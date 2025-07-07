@@ -34,7 +34,7 @@ education:
   courses:
     - course: "MSc Informatics"
       institution: "Rhenish Friedrich Wilhelm University of Bonn"
-      year: "Since 2024"
+      year: "Since 2023"
 
 social:
   - icon: github
